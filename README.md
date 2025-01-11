@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer on a mission to build impactful and efficient solutions globally 🚀</h3>
 <p align="left"> <a href="https://twitter.com/grayman" target="blank"><img src="https://img.shields.io/twitter/follow/grayman?logo=twitter&style=for-the-badge" alt="grayman" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graman-ap&label=Profile%20views&color=0e75b6&style=flat" alt="rehmatroy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=graman-ap&label=Profile%20views&color=0e75b6&style=flat" alt="graman-ap" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/grayman-ap](https://github.com/grayman-ap)
 
